@@ -1,3 +1,3 @@
-const profiles = Array ()
+const profiles = []
 
 const profiles = ""
